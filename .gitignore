@@ -46,3 +46,4 @@ bin/
 /gradle/wrapper/gradle-wrapper.properties
 /.idea/misc.xml
 /.idea/vcs.xml
+/gradle.properties
